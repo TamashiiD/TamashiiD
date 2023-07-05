@@ -15,8 +15,6 @@
 Check out my repos ⬇️  
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
-
 - 🔭 I’m currently working on Shishu and Tamashii's After Life Project
 - 🌱 I’m currently learning more about React
 - 👯 I’m looking to collaborate on anything that involves React
